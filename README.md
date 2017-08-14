@@ -1,2 +1,2 @@
 # javascript-training
-Javascript training
+### My Javascript training playground.
